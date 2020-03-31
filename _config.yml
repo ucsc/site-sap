@@ -1,0 +1,47 @@
+title: Chancellor Cynthia K. Larive
+email: chancellor@ucsc.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Cynthia K. Larive is the eleventh Chancellor of University of California Santa Cruz. Chancellor Larive’s career has been marked by her commitment to student success, inclusion and equity.
+url: "https://chancellor.ucsc.edu"
+timezone: "America/Los_Angeles"
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections_dir: collections
+collections:
+  announcements:
+    label: "announcements"
+    output: true
+  links:
+    label: "links"
+    output: false
+  posts:
+    label: "posts"
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/cl-web.jpg
+
+include:
+  - _redirects
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
