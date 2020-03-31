@@ -1,23 +1,39 @@
 ---
 layout: page
-title: About Cynthia K. Larive
+title: About
 menu: "About"
 order: 1
-related:
-  - title: "Curriculum vitae"
-    url: /assets/pdfs/2019-larive-cv.pdf
-  - title: "Press photo"
-    url: /assets/images/cl-web.jpg
+# related:
+  # - title: "Curriculum vitae"
+    # url: /assets/pdfs/2019-larive-cv.pdf
+  # - title: "Press photo"
+    # url: /assets/images/cl-web.jpg
 ---
 
-{% asset designate-web.jpg magick:resize=790 alt='Cynthia K. Larive' %}
+{% asset sap-about-banner.jpg magick:resize=790 alt='Student studying' %}
 
-Cynthia K. Larive was confirmed as the eleventh Chancellor of University of California Santa Cruz by the UC Board of Regents on May 16, 2019. She began her tenure on July 1, 2019.
+## Overview of SAP
 
-A common thread throughout Larive's career has been her commitment to student success, inclusion and equity. She has led programs for undergraduate research and curricular innovation and has written over two dozen articles on active learning, mentoring and experiential learning. Larive has also been active in encouraging the participation and success of women and others who have been underrepresented in STEM fields, including service as co-PI of an institutional NSF Advance grant. She is a collaborative leader who is committed to the principles of shared governance.
+Aspiration alone does not guarantee achievement. Prestigious universities routinely design bold plans for the future, but many fall short because they are not linked to concrete and realistic implementation plans and have no input from faculty, students, and staff. Furthermore, their institutional goals and aspirations are often solidified without sufficient research into resources, needs, organizational capacity, or current and emerging academic trends.
 
-An accomplished bioanalytical chemist, Larive came to UC Santa Cruz from UC Riverside where she was serving as provost and executive vice chancellor. As provost, she was responsible for the academic enterprise, managing large scale initiatives as well as the daily operations of the UC Riverside campus, developing academic and administrative policies, and working closely with the chancellor, the Academic Senate, and the deans of UCR's colleges, schools, and divisions to formulate and realize campus goals. Since 2012, she has served in a variety of administrative roles including Vice Provost for Undergraduate Education, Divisional Dean of Physical Sciences and Mathematics, interim Dean of the College of Natural & Agricultural Sciences, and Chair of the Department of Chemistry.
+ To ensure that the vision of UC Santa Cruz for its future can be made real, Entangled Solutions linked each design principle to a concrete goal that is tied to a menu of possible initiatives and outcomes.
 
-Before arriving at UCR, Larive was a professor of chemistry at the University of Kansas, where she began what has become a productive and successful research career. She has over 155 publications, has mentored 30 Ph.D and M.S. students, and received funding to support her research from the National Science Foundation, National Institutes of Health, U.S. Department of Agriculture, Environmental Protection Agency, and a range of foundation and corporate grant makers. Larive is a fellow of the American Association for the Advancement of Science and the American Chemical Society, serves an Associate Editor for Analytical Chemistry, and has received campus and national awards for her teaching, research and leadership.
+ The difference between goals and initiatives should be noted. Strategic goals are direction-setting, outcome-based aspirations. Initiatives, on the other hand, are concrete steps taken in pursuit of a goal. Initiatives are actionable and specific, bridging the gap between desired outcome and execution. Good initiatives provide clear steps to achieve goals.
 
-Larive is a first-generation college graduate, having earned her Bachelor of Science from South Dakota State University and M.S. from Purdue University, both in chemistry. She is a product of the University of California, having received a Ph.D. in analytical chemistry from UC Riverside in 1992 while raising two young daughters, Erin and Megan with her husband Jim.
+  Key outcomes are metrics that enable the monitoring of progress toward specific, defined objectives. By assessing outcomes we ensure that initiatives and, ultimately goals are realized. UC Santa Cruz chose to utilize multi-factored variables to capture a wide array of progress toward initiatives.
+
+Selected data sources for tracking progress may include:
+
+* Citations and IP licenses
+* Faculty retention rates
+* Graduation rates
+* Graduate employment statistics
+* Graduate pursuing graduate school statistics
+* Experiential research opportunities
+* Cross-collaborative research statistics
+* Interdisciplinary grant applications
+* Number of cross-listed courses
+
+This action-oriented structure paves the way for continuous improvement, allowing UC Santa Cruz to quickly identify the most important initiatives, the community members who need to be involved, and the desired outcome for each initiative.
+
+View the SAP development site here: [cpevc.ucsc.edu/academic-plan/](cpevc.ucsc.edu/academic-plan/).
