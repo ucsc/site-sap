@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+{% if page.hero %}
+        {% include hero.html%}
+        {% endif %}
 {% if page.related %}
   {% assign page_id = "sprflt" %}
   {% assign page_class = "left-column" %}

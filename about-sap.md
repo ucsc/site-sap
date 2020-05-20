@@ -3,14 +3,17 @@ layout: page
 title: About
 menu: "About"
 order: 1
-# related:
-  # - title: "Curriculum vitae"
-    # url: /assets/pdfs/2019-larive-cv.pdf
-  # - title: "Press photo"
-    # url: /assets/images/cl-web.jpg
+hero:
+    url: "/assets/images/sap-about-banner.jpg"
+    text: "Student studying"
+    headline: "Headline"
+    description: "UC Santa Cruz has joined the 65-member Association of American Universities"
+related:
+ - title: "Curriculum vitae"
+   url: /assets/pdfs/2019-larive-cv.pdf
+ - title: "Press photo"
+   url: /assets/images/cl-web.jpg
 ---
-
-{% asset sap-about-banner.jpg magick:resize=790 alt='Student studying' %}
 
 ## Overview of SAP
 
