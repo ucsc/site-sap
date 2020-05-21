@@ -6,7 +6,6 @@ order: 1
 hero:
     url: "/assets/images/sap-about-banner.jpg"
     text: "Student studying"
-    headline: "Headline"
     description: "UC Santa Cruz has joined the 65-member Association of American Universities"
 related:
  - title: "Curriculum vitae"

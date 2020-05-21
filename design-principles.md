@@ -3,14 +3,16 @@ layout: page
 title: Design Principles
 menu: "Design Principles"
 order: 2
+hero:
+    url: "/assets/images/sap-about-banner.jpg"
+    text: "Student studying"
+    description: "Strategic Academic Plan"
 # related:
   # - title: "Curriculum vitae"
     # url: /assets/pdfs/2019-larive-cv.pdf
   # - title: "Press photo"
     # url: /assets/images/cl-web.jpg
 ---
-
-{% asset sap-about-banner.jpg magick:resize=790 alt='Student studying' %}
 
 Design principles are clear, tightly defined guidelines that identify a conceptually coherent set of institutional aspirations. The five UC Santa Cruz principles are intended to represent the objectives of a large number of campus constituents, and be distinctive, precise and unambiguous. The design principles advance our institutional values and will help facilitate a shared understanding of why particular initiatives have been prioritized.
 

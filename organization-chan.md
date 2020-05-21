@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The chancellor's office
-menu: "Organization"
-order: 2
+#menu: "Organization"
+#order: 2
 related:
   - title: "UCSC organization chart"
     url: "https://www.ucsc.edu/about/files/ucsc-organization-chart.pdf"

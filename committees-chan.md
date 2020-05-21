@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Committees
-menu: "Committees"
-order: 3
+#menu: "Committees"
+#order: 3
 related:
   - title: "UCSC organization chart"
     url: "https://www.ucsc.edu/about/files/ucsc-organization-chart.pdf"
