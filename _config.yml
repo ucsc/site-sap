@@ -1,7 +1,6 @@
 title: Strategic Academic Plan
 email: academicplan@ucsc.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  UC Santa Cruz has the capacity to take a greater role on the international stage: to lead with our cutting-edge scholarship, to offer new strategies for engaged and ethical pedagogy, and to provide a visionary model for public higher education - qualities that honor and advance our founding mission. We can.
+description: "UC Santa Cruz has the capacity to take a greater role on the international stage: to lead with our cutting-edge scholarship, to offer new strategies for engaged and ethical pedagogy, and to provide a visionary model for public higher education - qualities that honor and advance our founding mission. We can."
 url: "https://sap.ucsc.edu"
 timezone: "America/Los_Angeles"
 
@@ -37,10 +36,10 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
- exclude:
-   - Gemfile
-   - Gemfile.lock
-   - sap-jekyll-export
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - sap-jekyll-export
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
