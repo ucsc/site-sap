@@ -10,6 +10,7 @@ guid: http://live-ucsc-sap.pantheonsite.io/?page_id=182
 hero:
     url: "/assets/images/sap-about-banner.jpg"
     text: "Student studying"
+    image: sap-about-banner.jpg
     description: "UC Santa Cruz has joined the 65-member Association of American Universities"
 
 ---

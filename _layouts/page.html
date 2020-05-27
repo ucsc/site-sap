@@ -11,7 +11,7 @@ layout: default
   {% assign page_id = "noflt" %}
   {% assign page_class = "single-column" %}
 {% endif %}
-<div class="row" id="{{ page_id }}" class="{{ page_class }}">
+<div class="row, {{ page_class }}" id="{{ page_id }}">
   <div class="main-content" id="main" role="main">
 {% unless page.hero %}
     <h1 class="page-title" id="title">{{ page.title }}</h1>
@@ -32,15 +32,14 @@ layout: default
   </div>
 
   {% if page.related %}
+  {% if page.related.image %}
     <div class="sidebar" id="subNav" role="navigation">
-
-    <ul>
-    {% for link in page.related %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
-    {% endfor %}
-    </ul>
+    <a href="{{page.related.link}}"
+    <figure class="inline-image left">
+{% asset {{page.related.image}} magick:resize=300 alt="{{page.related.image_alt}}" %}<figcaption>{{page.related.caption}}</figcaption></figure></a>
 
     </div>
+  {% endif %}
   {% endif %}
 
 </div>

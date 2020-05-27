@@ -1,9 +1,11 @@
 <section class="row hero">
     <div class="hero-area">
-        {%- if page.hero.link %}
+        {% if page.hero.link %}
         <a href="{{ page.hero.link }}">
               {% endif %}
-              <img src="{{ page.hero.url }}" alt="{{ page.hero.text }}">
+              {% if page.hero.image%}
+{% asset {{page.hero.image}} alt="{{ page.hero.text }}" %}
+{% endif%}
               <div class="text">
                 <h2>{{ page.title }}</h2>
                 <p>{{ page.hero.description }}</p>
@@ -12,3 +14,5 @@
               </a> {% endif %}
     </div>
 </section>
+
+

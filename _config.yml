@@ -29,6 +29,11 @@ defaults:
       path: ""
     values:
       image: /assets/images/cl-web.jpg
+assets:
+  sources:
+    - assets/images
+    - assets/css
+    - assets/pdfs
 
 include:
   - _redirects
