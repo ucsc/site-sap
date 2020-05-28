@@ -5,7 +5,7 @@ menu: "Barrier Reduction"
 order: 4
 hero:
   image: ucsc_sap_slider-05.jpg
-  text: "Strategic A"
+  text: "Strategic Academic Plan"
   description: "Strategic Academic Plan"
 layout: page
 guid: http://live-ucsc-sap.pantheonsite.io/?page_id=184
@@ -33,13 +33,3 @@ The campus community, Academic Senate, and Academic Advisory Committee, each pro
 **9.** Address general lack of administrative staff support
 
 **10.** Develop a consistent philosophy of teaching load expectations across departments and divisions
-
-
-
-
-
-
-
-
-
-
