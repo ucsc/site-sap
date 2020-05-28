@@ -25,13 +25,11 @@
     .color-gold {
         background-color: #f1af13;
     }
-
     .hero-area {
         width: 100%;
         bottom: 0;
         z-index: 1;
         position: relative;
-
         .text {
             position: absolute;
             bottom: 2em;
@@ -40,13 +38,11 @@
             padding: 1em 2em;
             max-width: 26em;
             font-size: 1.1rem;
-
-
-            h2, p {
+            h2,
+            p {
                 color: rgba(7, 71, 138, 1.00);
                 margin: 0 0 .25em 0;
             }
-
             h2 {
                 font-weight: 600;
             }
@@ -57,18 +53,18 @@
 .main-navigation .current,
 .main-navigation .current:focus,
 .main-navigation .current:hover,
-.main-navigation .current:active   {
-  text-decoration: none;
-  border-bottom: 2px solid #CDECFF !important;
-  color: #000000 !important;
+.main-navigation .current:active {
+    text-decoration: none;
+    border-bottom: 2px solid #CDECFF !important;
+    color: #000000 !important;
 }
 
 a:focus-visible {
-  color: #111111 !important;
-  background-color: #ffff00 !important;
-  border: none !important;
-  outline: 1px dotted #111111;
-  text-decoration: none !important;
+    color: #111111 !important;
+    background-color: #ffff00 !important;
+    border: none !important;
+    outline: 1px dotted #111111;
+    text-decoration: none !important;
 }
 
 .separate .inner {
@@ -90,44 +86,35 @@ a:focus-visible {
     flex-grow: 1;
 }
 
-.main-content > :first-child {
+.main-content> :first-child {
     margin-top: 0;
     padding-top: 0;
 }
 
 @media screen and (min-width: 48em) {
-
     .three.separate.flex {
         display: flex;
         justify-content: space-between;
-
         .wrap {
             flex-basis: 48%;
             float: none;
             width: auto;
         }
     }
-
     .gsc-control-cse {
         padding: 0 !important;
     }
-
     #sprflt {
         flex-direction: row-reverse;
     }
-
     #sprflt .main-content {
         width: 75%;
         margin-left: 1%;
     }
-
     #sprflt .sidebar {
         width: 24%;
     }
-
-
     .quote-block .inner {
-
         blockquote {
             text-transform: none;
             font-size: 1.6rem;
@@ -135,13 +122,11 @@ a:focus-visible {
             border: 0;
             padding: 0 1em;
         }
-
         span {
             font-weight: 400;
             display: block;
             text-align: right;
         }
-
         a:hover,
         a:focus,
         a:active {
@@ -149,42 +134,66 @@ a:focus-visible {
             background-color: red;
         }
     }
-
 }
 
 @keyframes fadeIt {
-  0%   { background-color: #FFFFFF; }
-  10%  { background-color: #ffff8f; }
-  100% { background-color: #FFFFFF; }
+    0% {
+        background-color: #FFFFFF;
+    }
+    10% {
+        background-color: #ffff8f;
+    }
+    100% {
+        background-color: #FFFFFF;
+    }
 }
 
 :target {
-  animation: fadeIt 3s ease-in-out;
+    animation: fadeIt 3s ease-in-out;
 }
 
 .cp-evc-search-advisory-committee table tr td:nth-child(odd) {
-  width: 17vw;
+    width: 17vw;
 }
 
 .announcements ul {
-  margin: 1em 0;
-  padding: 0;
-  list-style: none;
+    margin: 1em 0;
+    padding: 0;
+    list-style: none;
 }
 
 .announcements li {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  padding: 0;
-  margin: .5em 0 1em 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: .5em 0 1em 0;
+    span {
+        flex: 0 1 16ch;
+        padding-right: 1em;
+    }
+    a {
+        flex: 3 0 50ch;
+    }
+}
 
-  span {
-    flex: 0 1 16ch;
-    padding-right: 1em;
-  }
-
-  a {
-    flex: 3 0 50ch;
-  }
+.topbutton {
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 15px;
+    bottom: 30px;
+    z-index: 99999;
+    background-repeat: no-repeat;
+    display: none;
+    border-bottom: none;
+    color: #da216d;
+    &:hover,
+    &.focus,
+    &.active,
+    &.visited {
+        border-bottom: none;
+        color: #da216d;
+    }
 }

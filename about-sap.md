@@ -42,91 +42,87 @@ This action-oriented structure paves the way for continuous improvement, allowin
 View the SAP development site here: [cpevc.ucsc.edu/academic-plan/](cpevc.ucsc.edu/academic-plan/).
 
 <figure class="inline-image full">
-{% asset ucsc_sap_slider-16X9-02.jpg alt='photo of Mary Thush' %}
+{% asset ucsc_sap_slider-16X9-02.jpg alt='photo of Mary Thush' magick:resize=1000 %}
 <figcaption></figcaption></figure> 
 
-### **Executive Sponsor**
+### Executive Sponsor
 
--   Lori Kletzer, Interim Campus Provost and Executive Vice Chancellor
+* Lori Kletzer, Interim Campus Provost and Executive Vice Chancellor
 
-
-
-### **Academic Priority Area Leadership** {#academic-priority-area-leadership dir="ltr"}
+### Academic Priority Area Leadership
 
 #### Earth Futures
 
-**Co-Leads**
+##### Co-Leads
 
--   Karen Holl, Environmental Studies, Social Sciences
--   Jim Zachos, Earth and Planetary Sciences, Physical and Biological
+- Karen Holl, Environmental Studies, Social Sciences
+- Jim Zachos, Earth and Planetary Sciences, Physical and Biological
     Sciences
 
-**Associate Leads**
+##### Associate Leads
 
--   Jon Ellis, Philosophy, Humanities
--   Sandy Faber, Astronomy & Astrophysics, Physical and Biological
-    Sciences
--   Nader Pourmand, Biomolecular Engineering, Baskin School of
+- Jon Ellis, Philosophy, Humanities
+
+- Sandy Faber, Astronomy & Astrophysics, Physical and Biological Sciences
+- Nader Pourmand, Biomolecular Engineering, Baskin School of
     Engineering
--   Beth Stephens, Art, Arts
+- Beth Stephens, Art, Arts
 
-#### Justice in a Changing World {#justice-in-a-changing-world dir="ltr"}
+#### Justice in a Changing World
 
-**Co-Leads**
+##### Co-Leads
 
--   Rob Fairlie, Economics, Social Sciences
--   Dee Hibbert-Jones, Art, Arts
+- Rob Fairlie, Economics, Social Sciences
+- Dee Hibbert-Jones, Art, Arts
 
-**Associate Leads**
+##### Associate Leads
 
--   Sri Kurniawan, Computational Media, Baskin School of Engineering
--   Juan Poblete, Literature, Humanities
--   Erika Zavaleta, Ecology & Evolutionary Biology, Physical and
+- Sri Kurniawan, Computational Media, Baskin School of Engineering
+- Juan Poblete, Literature, Humanities
+- Erika Zavaleta, Ecology & Evolutionary Biology, Physical and
     Biological Sciences
 
-#### Digital Interventions {#digital-interventions dir="ltr"}
+#### Digital Interventions
 
-**Co-Leads**
+##### Co-Leads
 
--   Alan Christy, History, Humanities
--   Abel Rodriguez, Statistics, Baskin School of Engineering
+- Alan Christy, History, Humanities
+- Abel Rodriguez, Statistics, Baskin School of Engineering
 
-**Associate Leads**
+##### Associate Leads
 
--   Chris Benner, Environmental Studies and Sociology, Social Sciences
--   Robin Hunicke, Arts
--   David Lederman, Physics, Physical and Biological Sciences
-
-
+- Chris Benner, Environmental Studies and Sociology, Social Sciences
+- Robin Hunicke, Arts
+- David Lederman, Physics, Physical and Biological Sciences
 
 ### Academic Oversight Committee
 
--   Herbie Lee, Chair, Vice Provost, Academic Affairs
--   Peggy Delaney, Vice Chancellor, Planning and Budget
--   Kent Eaton, Politics, Social Sciences
--   Patty Gallagher, Theater Arts, Arts
--   Kirsten Silva Gruesz, Literature, Humanities
--   Todd Lowe, Biomolecular Engineering, Baskin School of Engineering
--   Enrico Ramirez-Ruiz, Astronomy and Astrophysics, Physical and
+- Herbie Lee, Chair, Vice Provost, Academic Affairs
+- Peggy Delaney, Vice Chancellor, Planning and Budget
+- Kent Eaton, Politics, Social Sciences
+- Patty Gallagher, Theater Arts, Arts
+- Kirsten Silva Gruesz, Literature, Humanities
+- Todd Lowe, Biomolecular Engineering, Baskin School of Engineering
+- Enrico Ramirez-Ruiz, Astronomy and Astrophysics, Physical and
     Biological Sciences
--   Tyler Stovall, Dean, Humanities
--   Lauren Woo, Student Union Assembly
--   Veronika Zablotsky, Graduate Student Association
--   Yi Zuo, Molecular, Cell, and Developmental Biology, Physical and
+- Tyler Stovall, Dean, Humanities
+- Lauren Woo, Student Union Assembly
+- Veronika Zablotsky, Graduate Student Association
+- Yi Zuo, Molecular, Cell, and Developmental Biology, Physical and
     Biological Sciences
 
-### **Working Group**
+### Working Group
 
--   Herbie Lee, Vice Provost, Academic Affairs
--   Andrea Cohen, Special Assistant, Academic Affairs
--   Peggy Delaney, Vice Chancellor, Planning & Budget
--   Galen Jarvinen, Special Assistant, Planning and Budget
--   Linda Rhoads, Chief of Staff to the Campus Provost and Executive
+- Herbie Lee, Vice Provost, Academic Affairs
+- Andrea Cohen, Special Assistant, Academic Affairs
+- Peggy Delaney, Vice Chancellor, Planning & Budget
+- Galen Jarvinen, Special Assistant, Planning and Budget
+- Linda Rhoads, Chief of Staff to the Campus Provost and Executive
     Vice Chancellor, Office of the CP/EVC
--   Erika Wolford, Executive Assistant, Academic Affairs
--   Lydia Zendejas, Staff Fellow, Office of the CP/EVC
+- Erika Wolford, Executive Assistant, Academic Affairs
+- Lydia Zendejas, Staff Fellow, Office of the CP/EVC
 
-### **Consulting Committee on Student Outreach**
+### Consulting Committee on Student Outreach
 
 This committee, piloted in 2018-19 and comprised of seven
 undergraduates, assisted the CP/EVC with student outreach and engagement
