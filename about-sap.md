@@ -4,10 +4,9 @@ title: About SAP
 menu: "About"
 order: 1
 hero:
-  url: "/assets/images/sap-about-banner.jpg"
   image: "sap-about-banner.jpg"
   text: "Student studying"
-  description: "UC Santa Cruz has joined the 65-member Association of American Universities"
+  description: "Strategic Academic Plan"
 related:
   image: ucsc_sap_PDF-01.jpg
   image_alt: UCSC SAP PDF
@@ -55,72 +54,72 @@ View the SAP development site here: [cpevc.ucsc.edu/academic-plan/](cpevc.ucsc.e
 
 ##### Co-Leads
 
-- Karen Holl, Environmental Studies, Social Sciences
-- Jim Zachos, Earth and Planetary Sciences, Physical and Biological
+* Karen Holl, Environmental Studies, Social Sciences
+* Jim Zachos, Earth and Planetary Sciences, Physical and Biological
     Sciences
 
 ##### Associate Leads
 
-- Jon Ellis, Philosophy, Humanities
+* Jon Ellis, Philosophy, Humanities
 
-- Sandy Faber, Astronomy & Astrophysics, Physical and Biological Sciences
-- Nader Pourmand, Biomolecular Engineering, Baskin School of
+* Sandy Faber, Astronomy & Astrophysics, Physical and Biological Sciences
+* Nader Pourmand, Biomolecular Engineering, Baskin School of
     Engineering
-- Beth Stephens, Art, Arts
+* Beth Stephens, Art, Arts
 
 #### Justice in a Changing World
 
 ##### Co-Leads
 
-- Rob Fairlie, Economics, Social Sciences
-- Dee Hibbert-Jones, Art, Arts
+* Rob Fairlie, Economics, Social Sciences
+* Dee Hibbert-Jones, Art, Arts
 
 ##### Associate Leads
 
-- Sri Kurniawan, Computational Media, Baskin School of Engineering
-- Juan Poblete, Literature, Humanities
-- Erika Zavaleta, Ecology & Evolutionary Biology, Physical and
+* Sri Kurniawan, Computational Media, Baskin School of Engineering
+* Juan Poblete, Literature, Humanities
+* Erika Zavaleta, Ecology & Evolutionary Biology, Physical and
     Biological Sciences
 
 #### Digital Interventions
 
 ##### Co-Leads
 
-- Alan Christy, History, Humanities
-- Abel Rodriguez, Statistics, Baskin School of Engineering
+* Alan Christy, History, Humanities
+* Abel Rodriguez, Statistics, Baskin School of Engineering
 
 ##### Associate Leads
 
-- Chris Benner, Environmental Studies and Sociology, Social Sciences
-- Robin Hunicke, Arts
-- David Lederman, Physics, Physical and Biological Sciences
+* Chris Benner, Environmental Studies and Sociology, Social Sciences
+* Robin Hunicke, Arts
+* David Lederman, Physics, Physical and Biological Sciences
 
 ### Academic Oversight Committee
 
-- Herbie Lee, Chair, Vice Provost, Academic Affairs
-- Peggy Delaney, Vice Chancellor, Planning and Budget
-- Kent Eaton, Politics, Social Sciences
-- Patty Gallagher, Theater Arts, Arts
-- Kirsten Silva Gruesz, Literature, Humanities
-- Todd Lowe, Biomolecular Engineering, Baskin School of Engineering
-- Enrico Ramirez-Ruiz, Astronomy and Astrophysics, Physical and
+* Herbie Lee, Chair, Vice Provost, Academic Affairs
+* Peggy Delaney, Vice Chancellor, Planning and Budget
+* Kent Eaton, Politics, Social Sciences
+* Patty Gallagher, Theater Arts, Arts
+* Kirsten Silva Gruesz, Literature, Humanities
+* Todd Lowe, Biomolecular Engineering, Baskin School of Engineering
+* Enrico Ramirez-Ruiz, Astronomy and Astrophysics, Physical and
     Biological Sciences
-- Tyler Stovall, Dean, Humanities
-- Lauren Woo, Student Union Assembly
-- Veronika Zablotsky, Graduate Student Association
-- Yi Zuo, Molecular, Cell, and Developmental Biology, Physical and
+* Tyler Stovall, Dean, Humanities
+* Lauren Woo, Student Union Assembly
+* Veronika Zablotsky, Graduate Student Association
+* Yi Zuo, Molecular, Cell, and Developmental Biology, Physical and
     Biological Sciences
 
 ### Working Group
 
-- Herbie Lee, Vice Provost, Academic Affairs
-- Andrea Cohen, Special Assistant, Academic Affairs
-- Peggy Delaney, Vice Chancellor, Planning & Budget
-- Galen Jarvinen, Special Assistant, Planning and Budget
-- Linda Rhoads, Chief of Staff to the Campus Provost and Executive
+* Herbie Lee, Vice Provost, Academic Affairs
+* Andrea Cohen, Special Assistant, Academic Affairs
+* Peggy Delaney, Vice Chancellor, Planning & Budget
+* Galen Jarvinen, Special Assistant, Planning and Budget
+* Linda Rhoads, Chief of Staff to the Campus Provost and Executive
     Vice Chancellor, Office of the CP/EVC
-- Erika Wolford, Executive Assistant, Academic Affairs
-- Lydia Zendejas, Staff Fellow, Office of the CP/EVC
+* Erika Wolford, Executive Assistant, Academic Affairs
+* Lydia Zendejas, Staff Fellow, Office of the CP/EVC
 
 ### Consulting Committee on Student Outreach
 

@@ -4,9 +4,9 @@ title: Design Principles
 menu: "Design Principles"
 order: 2
 hero:
-    url: "/assets/images/sap-about-banner.jpg"
-    text: "Student studying"
-    description: "Strategic Academic Plan"
+  image: ucsc_sap_slider-09.jpg
+  text: "Student studying"
+  description: "Strategic Academic Plan"
 # related:
   # - title: "Curriculum vitae"
     # url: /assets/pdfs/2019-larive-cv.pdf

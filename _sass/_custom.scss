@@ -13,6 +13,27 @@
     }
 }
 
+.mid-page-banner-area {
+    width: 100%;
+    position: relative;
+    .text {
+        position: absolute;
+        width: 100%;
+        bottom: 5.5em;
+        left: 0;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.35);
+        // padding: 25px 0px 25px 0px;
+        .banner-heading {
+            color: #efae2f;
+            font-size: 60px;
+            text-transform: uppercase;
+            font-weight: 700;
+            margin: 0
+        }
+    }
+}
+
 @media screen and (min-width: 48em) {
     .hero-area.layout-left {
         width: 100%;

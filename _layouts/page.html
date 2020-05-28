@@ -11,7 +11,7 @@ layout: default
   {% assign page_id = "noflt" %}
   {% assign page_class = "single-column" %}
 {% endif %}
-<div class="row, {{ page_class }}" id="{{ page_id }}">
+<div class="row {{ page_class }}" id="{{ page_id }}">
   <div class="main-content" id="main" role="main">
 {% unless page.hero %}
     <h1 class="page-title" id="title">{{ page.title }}</h1>
