@@ -1,0 +1,22 @@
+homegrid:
+  - url: "/apa/#earthfutures"
+    image: ucsc_sap_earth_futures_box-02.jpg
+    alt: "Earth Futures"
+  - url: "/apa/#justice"
+    image: ucsc_sap_justice_changing_world_box-02.jpg
+    alt: "Justice in a changing world"
+  - url: "/apa/#digitalinterventions"
+    image: "UCSC_SAP_digital_interventions_final.jpg"
+    alt: "Digital Interventions"
+  - url: "/design-principles/"
+    image: "ucsc_sap_design_principles_box-02.jpg"
+    alt: "Design Principles"
+    caption: "Design Principles"
+  - url: "/barrier-reduction/"
+    image: "ucsc_sap_barrier_reduction_box-01.jpg"
+    alt: "Barrier Reduction"
+    caption: "Barrier Reduction"
+  - url: "https://drive.google.com/drive/folders/19uMNU2WhF_reFSc3_R8vxopl63e8udwM?usp=sharing"
+    image: "SAP_clickable.jpg"
+    alt: "Final Draft SAP Plan"
+    caption: "Final Draft SAP Plan"

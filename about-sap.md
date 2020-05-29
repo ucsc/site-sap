@@ -41,7 +41,7 @@ This action-oriented structure paves the way for continuous improvement, allowin
 View the SAP development site here: [cpevc.ucsc.edu/academic-plan/](cpevc.ucsc.edu/academic-plan/).
 
 <figure class="inline-image full">
-{% asset ucsc_sap_slider-16X9-02.jpg alt='photo of Mary Thush' magick:resize=1000 %}
+{% asset ucsc_sap_slider-16X9-02.jpg alt='photo of Mary Thush' magick:resize=1080 %}
 <figcaption></figcaption></figure> 
 
 ### Executive Sponsor

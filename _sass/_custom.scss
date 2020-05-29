@@ -34,6 +34,38 @@
     }
 }
 
+
+/**
+ * Home
+ */
+
+.home-wrap {
+    margin: 0 auto;
+    max-width: 75%;
+    padding: 0;
+    background-color: #007988;
+    p {
+        color: #fff;
+    }
+}
+
+
+/**
+ * Home Grid
+ */
+
+.home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 1em;
+    list-style-type: none;
+    margin: 0;
+    li {
+        margin: 0;
+    }
+}
+
 @media screen and (min-width: 48em) {
     .hero-area.layout-left {
         width: 100%;
