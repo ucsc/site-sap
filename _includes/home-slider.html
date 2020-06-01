@@ -1,0 +1,14 @@
+<section class="row slider">
+    <div class="hero-area">
+       <div class="flexslider">
+  <ul class="slides">
+  {% for slide in site.data.main.slider%}
+    <li>
+      {% asset {{slide.image}} alt="{{slide.alt}}" magick:resize=1080 magick:crop=1080x400+0+100%}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+    </div>
+</section>
+

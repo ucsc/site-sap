@@ -20,3 +20,16 @@ homegrid:
     image: "SAP_clickable.jpg"
     alt: "Final Draft SAP Plan"
     caption: "Final Draft SAP Plan"
+slider:
+  - image: ucsc_sap_slider-04.jpg
+    alt: "Slide One"
+  - image: ucsc_sap_slider-08.jpg
+    alt: "Slide Two"
+  - image: ucsc_sap_slider-07.jpg
+    alt: "Slide Three"
+  - image: ucsc_sap_slider-03.jpg
+    alt: "Slide Four"
+  - image: ucsc_sap_slider-16X9-03.jpg
+    alt: "Slide Five"
+  - image: ucsc_sap_slider-09.jpg
+    alt: "Slide Six"
