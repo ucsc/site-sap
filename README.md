@@ -10,7 +10,7 @@ Contributor(s): [Rob Knight](https://github.com/knice)
 
 ## Local development
 
-This is a dockerized Jekyll instance (requires [Docker](https://www.docker.com/)) built by [Rob Knight](https://github.com/knice).
+This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker](https://www.docker.com/)) built by [Rob Knight](https://github.com/knice).
 
 
 ### Installation
