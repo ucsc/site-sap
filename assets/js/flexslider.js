@@ -8,7 +8,7 @@
         return window.innerWidth < 600 ? 1 : window.innerWidth < 900 ? 2 : 3;
     }
 
-    $window.load(function() {
+    $window.on("load", function() {
         $('.flexslider').flexslider({
             animation: 'fade',
             animationLoop: true,
