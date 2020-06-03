@@ -1,3 +1,93 @@
+/**
+ * Font reset
+ */
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: $base-font-size;
+}
+
+p,
+pre,
+blockquote,
+ul,
+ol,
+dl,
+figure,
+figcaption,
+table,
+fieldset,
+details {
+    font-size: $base-font-size;
+}
+
+h1 {
+    @include relative-font-size(2);
+}
+
+h2 {
+    @include relative-font-size(1.5);
+}
+
+h3,
+legend {
+    @include relative-font-size(1.5);
+}
+
+h4 {
+    @include relative-font-size(1.2);
+}
+
+h5 {
+    @include relative-font-size(1);
+}
+
+h6 {
+    @include relative-font-size(0.875);
+}
+
+.page-top #topNav {
+    @include relative-font-size(0.9);
+}
+
+.names .secondary-name,
+.names .secondary-name>* {
+    @include relative-font-size (2.25);
+}
+
+#mainNav li,
+.site-nav li {
+    @include relative-font-size (1.15);
+}
+
+@media screen and (min-width: 992px) {
+    #mainNav li,
+    .site-nav li {
+        @include relative-font-size (1.35);
+    }
+}
+
+.main-footer {
+    .footer-left {
+        .address {
+            .location {
+                @include relative-font-size (.95);
+            }
+            .copyright {
+                @include relative-font-size (.8);
+            }
+        }
+    }
+}
+
+
+/**
+ * Custom Styles
+ */
+
 .row.slider {
     margin-bottom: 0;
 }
@@ -30,7 +120,7 @@
         // padding: 25px 0px 25px 0px;
         .banner-heading {
             color: #efae2f;
-            font-size: 60px;
+            @include relative-font-size (3.75);
             text-transform: uppercase;
             font-weight: 700;
             margin: 0
@@ -52,7 +142,7 @@
         p {
             color: #fff;
             margin: 0;
-            font-size: 20px;
+            @include relative-font-size(1.25);
             line-height: 1.5;
         }
     }
@@ -75,7 +165,7 @@
     .home-fig {
         text-align: center;
         figcaption {
-            font-size: 14px;
+            @include relative-font-size (0.875);
             font-family: 'Roboto';
             letter-spacing: 0px;
             color: #454545;
@@ -105,9 +195,9 @@
             bottom: 2em;
             left: 0;
             background-color: rgba(239, 174, 46, 1);
-            padding: 1em 2em;
+            padding: 1.76rem 3.52rem;
             max-width: 26em;
-            font-size: 1.1rem;
+            @include relative-font-size (1.1);
             h2,
             p {
                 color: rgba(7, 71, 138, 1.00);
@@ -115,6 +205,7 @@
             }
             h2 {
                 font-weight: 600;
+                @include relative-font-size (1.65);
             }
         }
     }
@@ -191,7 +282,7 @@ a:focus-visible {
     .quote-block .inner {
         blockquote {
             text-transform: none;
-            font-size: 1.6rem;
+            @include relative-font-size (1.6);
             font-weight: 300;
             border: 0;
             padding: 0 1em;
