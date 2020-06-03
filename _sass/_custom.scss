@@ -113,17 +113,23 @@ h6 {
     .text {
         position: absolute;
         width: 100%;
-        bottom: 5.5em;
+        bottom: 3.55em;
         left: 0;
         text-align: center;
         background-color: rgba(0, 0, 0, 0.35);
+        @include media-query($on-tablet) {
+            bottom: 7em;
+        }
         // padding: 25px 0px 25px 0px;
         .banner-heading {
             color: #efae2f;
-            @include relative-font-size (3.75);
+            @include relative-font-size (1.328125);
             text-transform: uppercase;
             font-weight: 700;
-            margin: 0
+            margin: 0;
+            @include media-query($on-tablet) {
+                @include relative-font-size (2.65625);
+            }
         }
     }
 }
@@ -159,6 +165,10 @@ h6 {
     grid-gap: 1em;
     list-style-type: none;
     margin: 0;
+    @include media-query($on-laptop) {
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
     li {
         margin: 0;
     }
@@ -208,10 +218,6 @@ h6 {
                 @include relative-font-size (1.65);
             }
         }
-    }
-    .home-grid {
-        grid-template-columns: 1fr 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
     }
 }
 
