@@ -27,10 +27,10 @@
   force = true
 
 # headers
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Content-Security-Policy = "default-src 'self';"
+#[[headers]]
+#  for = "/*"
+#  [headers.values]
+#    Content-Security-Policy = "default-src 'self';"
 #[[headers]]
 #  for = "/*"
 #  [headers.values]
