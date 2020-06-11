@@ -4,6 +4,8 @@
 
 Website for the UC Santa Cruz Strategic Academic Plan. Built with Jekyll, hosted on Netlify.
 
+url: [https://sap.ucsc.edu](https://sap.ucsc.edu)
+
 Author: [Jason Chafin](https://github.com/Herm71)
 
 Contributor(s): [Rob Knight](https://github.com/knice)
