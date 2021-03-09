@@ -20,5 +20,3 @@ guid: http://live-ucsc-sap.pantheonsite.io/?page_id=190
 * [Nov. 05, 2018 – SAP academic priority areas and oversight](https://news.ucsc.edu/2018/11/academic-priority-areas.html)
 * [Oct. 05, 2018 – SAP moving forward](https://news.ucsc.edu/2018/10/sap-moving-forward.html)
 * [Sept. 14, 2018 – <span style="font-weight: 400;">Exciting times ahead for Strategic Academic Plan</span>](https://news.ucsc.edu/2018/09/exciting-times-sap.html)
-
-For communication regarding the SAP planning process, visit [cpevc.ucsc.edu/academic-plan/.](https://cpevc.ucsc.edu/academic-plan/)
