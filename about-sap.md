@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About SAP
+title: About
 menu: "About"
 order: 1
 hero:
@@ -10,11 +10,11 @@ hero:
 related:
   image: ucsc_sap_PDF-01.jpg
   image_alt: UCSC SAP PDF
-  link: https://drive.google.com/drive/folders/19uMNU2WhF_reFSc3_R8vxopl63e8udwM?usp=sharing
-  caption: Download the final Draft SAP Plan
+  link: https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view
+  caption: Download the strategic Academic Plan
    
 ---
-## Overview of SAP
+## Overview of the Strategic Academic Plan
 
 Aspiration alone does not guarantee achievement. Prestigious universities routinely design bold plans for the future, but many fall short because they are not linked to concrete and realistic implementation plans and have no input from faculty, students, and staff. Furthermore, their institutional goals and aspirations are often solidified without sufficient research into resources, needs, organizational capacity, or current and emerging academic trends.
 
@@ -24,105 +24,8 @@ The difference between goals and initiatives should be noted. Strategic goals ar
 
 Key outcomes are metrics that enable the monitoring of progress toward specific, defined objectives. By assessing outcomes we ensure that initiatives and, ultimately goals are realized. UC Santa Cruz chose to utilize multi-factored variables to capture a wide array of progress toward initiatives.
 
-## Selected data sources for tracking progress may include:
-
-* Citations and IP licenses
-* Faculty retention rates
-* Graduation rates
-* Graduate employment statistics
-* Graduate pursuing graduate school statistics
-* Experiential research opportunities
-* Cross-collaborative research statistics
-* Interdisciplinary grant applications
-* Number of cross-listed courses
-
-This action-oriented structure paves the way for continuous improvement, allowing UC Santa Cruz to quickly identify the most important initiatives, the community members who need to be involved, and the desired outcome for each initiative.
-
-View the SAP development site here: [cpevc.ucsc.edu/academic-plan/](cpevc.ucsc.edu/academic-plan/).
+View initiatives, metrics and track progress by visiting this [dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing).
 
 <figure class="inline-image full">
 {% asset ucsc_sap_slider-16X9-02.jpg alt='photo of Mary Thush' magick:resize=1080 %}
-<figcaption></figcaption></figure> 
-
-### Executive Sponsor
-
-* Lori Kletzer, Interim Campus Provost and Executive Vice Chancellor
-
-### Academic Priority Area Leadership
-
-#### Earth Futures
-
-##### Co-Leads
-
-* Karen Holl, Environmental Studies, Social Sciences
-* Jim Zachos, Earth and Planetary Sciences, Physical and Biological
-    Sciences
-
-##### Associate Leads
-
-* Jon Ellis, Philosophy, Humanities
-
-* Sandy Faber, Astronomy & Astrophysics, Physical and Biological Sciences
-* Nader Pourmand, Biomolecular Engineering, Baskin School of
-    Engineering
-* Beth Stephens, Art, Arts
-
-#### Justice in a Changing World
-
-##### Co-Leads
-
-* Rob Fairlie, Economics, Social Sciences
-* Dee Hibbert-Jones, Art, Arts
-
-##### Associate Leads
-
-* Sri Kurniawan, Computational Media, Baskin School of Engineering
-* Juan Poblete, Literature, Humanities
-* Erika Zavaleta, Ecology & Evolutionary Biology, Physical and
-    Biological Sciences
-
-#### Digital Interventions
-
-##### Co-Leads
-
-* Alan Christy, History, Humanities
-* Abel Rodriguez, Statistics, Baskin School of Engineering
-
-##### Associate Leads
-
-* Chris Benner, Environmental Studies and Sociology, Social Sciences
-* Robin Hunicke, Arts
-* David Lederman, Physics, Physical and Biological Sciences
-
-### Academic Oversight Committee
-
-* Herbie Lee, Chair, Vice Provost, Academic Affairs
-* Peggy Delaney, Vice Chancellor, Planning and Budget
-* Kent Eaton, Politics, Social Sciences
-* Patty Gallagher, Theater Arts, Arts
-* Kirsten Silva Gruesz, Literature, Humanities
-* Todd Lowe, Biomolecular Engineering, Baskin School of Engineering
-* Enrico Ramirez-Ruiz, Astronomy and Astrophysics, Physical and
-    Biological Sciences
-* Tyler Stovall, Dean, Humanities
-* Lauren Woo, Student Union Assembly
-* Veronika Zablotsky, Graduate Student Association
-* Yi Zuo, Molecular, Cell, and Developmental Biology, Physical and
-    Biological Sciences
-
-### Working Group
-
-* Herbie Lee, Vice Provost, Academic Affairs
-* Andrea Cohen, Special Assistant, Academic Affairs
-* Peggy Delaney, Vice Chancellor, Planning & Budget
-* Galen Jarvinen, Special Assistant, Planning and Budget
-* Linda Rhoads, Chief of Staff to the Campus Provost and Executive
-    Vice Chancellor, Office of the CP/EVC
-* Erika Wolford, Executive Assistant, Academic Affairs
-* Lydia Zendejas, Staff Fellow, Office of the CP/EVC
-
-### Consulting Committee on Student Outreach
-
-This committee, piloted in 2018-19 and comprised of seven
-undergraduates, assisted the CP/EVC with student outreach and engagement
-on the SAP.
+<figcaption></figcaption></figure>
