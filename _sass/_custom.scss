@@ -195,12 +195,16 @@ h6 {
     .color-gold {
         background-color: #f1af13;
     }
+    .home {
+        .hero-area {
+            border-bottom: #007988 15px solid;
+        }
+    }
     .hero-area {
         width: 100%;
         bottom: 0;
         z-index: 1;
         position: relative;
-        border-bottom: #007988 15px solid;
         .text {
             position: absolute;
             bottom: 2em;
