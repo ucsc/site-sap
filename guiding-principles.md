@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Design Principles
-menu: "Design Principles"
+title: Guiding Principles
+menu: "Guiding Principles"
 order: 2
 hero:
   image: ucsc_sap_slider-09.jpg
@@ -14,7 +14,7 @@ hero:
     # url: /assets/images/cl-web.jpg
 ---
 
-Design principles are clear, tightly defined guidelines that identify a conceptually coherent set of institutional aspirations. The five UC Santa Cruz principles are intended to represent the objectives of a large number of campus constituents, and be distinctive, precise and unambiguous. The design principles advance our institutional values and will help facilitate a shared understanding of why particular initiatives have been prioritized.
+Guiding principles are clear, tightly defined guidelines that identify a conceptually coherent set of institutional aspirations. The five UC Santa Cruz principles are intended to represent the objectives of a large number of campus constituents, and be distinctive, precise and unambiguous. The guiding principles advance our institutional values and will help facilitate a shared understanding of why particular initiatives have been prioritized.
 
 ## Drive research and creative work that transform our world
 
