@@ -7,11 +7,6 @@ hero:
   image: ucsc_sap_slider-09.jpg
   text: "Student studying"
   description: "Strategic Academic Plan"
-# related:
-  # - title: "Curriculum vitae"
-    # url: /assets/pdfs/2019-larive-cv.pdf
-  # - title: "Press photo"
-    # url: /assets/images/cl-web.jpg
 ---
 
 Guiding principles are clear, tightly defined guidelines that identify a conceptually coherent set of institutional aspirations. The five UC Santa Cruz principles are intended to represent the objectives of a large number of campus constituents, and be distinctive, precise and unambiguous. The guiding principles advance our institutional values and will help facilitate a shared understanding of why particular initiatives have been prioritized.
