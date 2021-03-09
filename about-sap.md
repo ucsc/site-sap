@@ -14,17 +14,15 @@ related:
   caption: Download the strategic Academic Plan
    
 ---
-## Overview of the Strategic Academic Plan
+## Overview
 
-Aspiration alone does not guarantee achievement. Prestigious universities routinely design bold plans for the future, but many fall short because they are not linked to concrete and realistic implementation plans and have no input from faculty, students, and staff. Furthermore, their institutional goals and aspirations are often solidified without sufficient research into resources, needs, organizational capacity, or current and emerging academic trends.
+Faculty on our campus have performed groundbreaking research, both disciplinary and interdisciplinary, including the invention of new fields of study. In support of continued excellence, as well as to better broadcast our achievements to the world, this Strategic Academic Plan provides an opportunity to be intentional in investment and communication around research, teaching, and public service—and in those areas our faculty have defined as most exciting. This plan seeks to identify, and then highlight, energize, and invest in, academic areas that will strengthen the university as a whole, build stronger programs for students, create new research opportunities for faculty, and bolster our global impact, all while utilizing our resources consciously and thoughtfully.
 
-To ensure that the vision of UC Santa Cruz for its future can be made real, Entangled Solutions linked each design principle to a concrete goal that is tied to a menu of possible initiatives and outcomes.
+The document outlines the strategic academic planning efforts begun in 2017-2018 for the next five years with the assumption that budget resources will continue to be limited and resources must be prioritized to achieve our objectives. The Campus Provost and Executive Vice Chancellor (CP/EVC) and Chancellor and other campus leaders, faculty, students and staff collaborated to describe and identify the university’s unique strengths and opportunities, outline goals, and develop a framework for achievement -- this plan.
 
-The difference between goals and initiatives should be noted. Strategic goals are direction-setting, outcome-based aspirations. Initiatives, on the other hand, are concrete steps taken in pursuit of a goal. Initiatives are actionable and specific, bridging the gap between desired outcome and execution. Good initiatives provide clear steps to achieve goals.
+The plan is composed of three parts: [guiding principles](/guiding-principles/) that identify the broadly shared values and sustaining pillars of UC Santa Cruz, [academic priority areas](/apa/) on which to focus our strategic efforts through 2022-23, and a [barrier reduction effort](/barrier-reduction/) to address obstacles to research, teaching, and learning.
 
-Key outcomes are metrics that enable the monitoring of progress toward specific, defined objectives. By assessing outcomes we ensure that initiatives and, ultimately goals are realized. UC Santa Cruz chose to utilize multi-factored variables to capture a wide array of progress toward initiatives.
-
-View initiatives, metrics and track progress by visiting this [dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing).
+For each of the guiding principles, campus leaders developed initiatives, implementation action steps, and metrics to track and measure progress. Additional details are contained in [final Strategic Academic Plan (PDF)](https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view) and [the initiatives dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing) offers an at-a-glance view of our progress to-date.
 
 <figure class="inline-image full">
 {% asset ucsc_sap_slider-16X9-02.jpg alt='photo of Mary Thush' magick:resize=1080 %}
