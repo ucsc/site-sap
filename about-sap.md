@@ -11,7 +11,7 @@ related:
   image: ucsc_sap_PDF-01.jpg
   image_alt: UCSC SAP PDF
   link: https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view
-  caption: Download the strategic Academic Plan
+  caption: Read or download the Plan
    
 ---
 ## Overview
