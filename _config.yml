@@ -28,7 +28,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/cl-web.jpg
+      image: /assets/images/strategic.png
 assets:
   sources:
     - assets/images
