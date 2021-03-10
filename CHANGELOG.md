@@ -1,5 +1,17 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.1.0 (2021-03-10)
+
+
+### Features
+
+* :sparkles: Rework site based on punch list. See commit history ([c6a1346](https://github.com/ucsc/site-sap/commit/c6a134634f87545a91f561411b834d27fb79e712))
+* :tada: New branch to work on Issue [#6](https://github.com/ucsc/site-sap/issues/6) ([e820b01](https://github.com/ucsc/site-sap/commit/e820b018682318bbe103b2568442b5fce40046e8))
+
+# Changelog
+
 ## 2019-11-22
 
 * Update revised date ([7e4c6a1](https://github.com/knice/leadership/commit/7e4c6a1))
