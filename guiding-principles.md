@@ -17,13 +17,13 @@ UC Santa Cruz seeks to be a pioneering research university, a home to faculty an
 
 ### Initiatives
 
-1.1 Develop a robust campus infrastructure to support research development
+**1.1** Develop a robust campus infrastructure to support research development
 
-1.2 Create and implement formal seed funding program within the Office of Research for new disciplinary and interdisciplinary research/creative activity efforts
+**1.2** Create and implement formal seed funding program within the Office of Research for new disciplinary and interdisciplinary research/creative activity efforts
 
-1.3 Promote and increase open access publication to widely and equitably disseminate research
+**1.3** Promote and increase open access publication to widely and equitably disseminate research
 
-1.4 Better support graduate students through five-year packages and continuing professional development
+**1.4** Better support graduate students through five-year packages and continuing professional development
 
 Please see [the Strategic Academic Plan (PDF)](https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view) for additional details and visit [the initiatives dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing) to view metrics and progress.
 
@@ -33,9 +33,9 @@ UC Santa Cruz aspires to be a university for students to think innovatively. Alr
 
 ### Initiatives
 
-2.1 Expand alumni outreach and engagement to increase networking opportunities with current students, alumni mentors, internship and job opportunities offered to undergraduate and graduate students
+**2.1** Expand alumni outreach and engagement to increase networking opportunities with current students, alumni mentors, internship and job opportunities offered to undergraduate and graduate students
 
-2.2 Expand the portfolio of global learning programs
+**2.2** Expand the portfolio of global learning programs
 
 Please see [the Strategic Academic Plan (PDF)](https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view) for additional details and visit [the initiatives dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing) to view metrics and progress.
 
@@ -45,17 +45,17 @@ UC Santa Cruz understands that all employees, academic and administrative, must 
 
 ### Initiatives
 
-3.1 Improve first-year experience for undergraduate frosh and transfer students
+**3.1** Improve first-year experience for undergraduate frosh and transfer students
 
-3.2 Develop an integrated approach for undergraduate advising and student support
+**3.2** Develop an integrated approach for undergraduate advising and student support
 
-3.3 Develop additional opportunities to assist instructors in enhancing inclusive curriculum and pedagogy/Universal Design for Learning (UDL)
+**3.3** Develop additional opportunities to assist instructors in enhancing inclusive curriculum and pedagogy/Universal Design for Learning (UDL)
 
-3.4 Support and expand the Cota-Robles Fellowships  for graduate students
+**3.4** Support and expand the Cota-Robles Fellowships  for graduate students
 
-3.5 Foster, cultivate and uphold an anti-bullying campus culture
+**3.5** Foster, cultivate and uphold an anti-bullying campus culture
 
-3.6 Foster a more robust and supportive advising and mentoring environment for graduate students through CITL workshops and new faculty orientation activities
+**3.6** Foster a more robust and supportive advising and mentoring environment for graduate students through CITL workshops and new faculty orientation activities
 
 Please see [the Strategic Academic Plan (PDF)](https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view) for additional details and visit [the initiatives dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing) to view metrics and progress.
 
@@ -65,6 +65,6 @@ UC Santa Cruz is committed to free expression, vigorous debate, and the examinat
 
 ### Initiative
 
-4.1 Coordinated complementary cross-disciplinary hiring
+**4.1** Coordinated complementary cross-disciplinary hiring
 
 Please see [the Strategic Academic Plan (PDF)](https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view) for additional details and visit [the initiatives dashboard](https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing) to view metrics and progress.
