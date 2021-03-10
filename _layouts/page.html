@@ -37,7 +37,13 @@ layout: default
     <a href="{{page.related.link}}"
     <figure class="inline-image left">
 {% asset {{page.related.image}} magick:resize=300 alt="{{page.related.image_alt}}" %}<figcaption>{{page.related.caption}}</figcaption></figure></a>
-
+{% if page.related.initiatives_dashboard %}
+<div class="sidebar-contact"><p>{{page.related.initiatives_dashboard}}</p></div>
+{% endif %}
+{% if page.url == '/about-sap/' %}
+<div class="sidebar-contact">
+<h3><strong><i>Questions?</i></strong></h3> <p>Please contact <a href="mailto:acohen@ucsc.edu">Andrea Cohen</a></p></div>
+{% endif %}
     </div>
   {% endif %}
   {% endif %}

@@ -134,6 +134,24 @@ h6 {
     }
 }
 
+.footnotes {
+    ol,
+    li,
+    p,
+    a {
+        @include relative-font-size(0.75);
+    }
+}
+
+.sidebar-contact {
+    h3 {
+        @include relative-font-size(1);
+    }
+    p {
+        @include relative-font-size(0.875);
+    }
+}
+
 
 /**
  * Home
@@ -194,6 +212,11 @@ h6 {
     }
     .color-gold {
         background-color: #f1af13;
+    }
+    .home {
+        .hero-area {
+            border-bottom: #007988 15px solid;
+        }
     }
     .hero-area {
         width: 100%;

@@ -1,5 +1,11 @@
 # A redirect rule with all the supported properties
 [[redirects]]
+  from = "/design-principles/"
+  to = "/guiding-principles/"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/news/"
   to = "/"
   status = 301

@@ -29,7 +29,7 @@
 
 </head>
 
-<body class="home {{ page.title | slugify }}">
+<body class="{% if page.url == '/' %}home{%endif%} {{ page.title | slugify }}">
 
 <!-- Accessibility links. Hidden until they receive :focus -->
 <ul id="access-links">

@@ -14,11 +14,10 @@ Contributor(s): [Rob Knight](https://github.com/knice)
 
 This is a dockerized [Jekyll](https://jekyllrb.com/) instance (requires [Docker](https://www.docker.com/)) built by [Rob Knight](https://github.com/knice).
 
-
 ### Installation
 
 1. Clone this repo
 2. in terminal, `cd` into this new repo's directory
 2. in terminal, run `docker-compose up`
 3. load site at `http://0.0.0.0:4000/`
-4. Profit!
+4. Profit! Dude
