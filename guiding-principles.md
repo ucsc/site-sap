@@ -8,7 +8,7 @@ hero:
   text: "Student studying"
   description: "Strategic Academic Plan"
 related:
-  image: rainy-redwood.jpg
+  image: strategic.png
   image_alt: UCSC SAP PDF
   link: https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view
   caption: Read or download the Plan
