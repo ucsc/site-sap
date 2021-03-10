@@ -10,7 +10,7 @@ hero:
 layout: page
 guid: http://live-ucsc-sap.pantheonsite.io/?page_id=184
 ---
-During the planning process and after considerable consultation across campus, ten institutional barriers that were perceived to impede our capacity to do our best research, teaching, and learning were identified. Four (see asterisks&#42;) were selected for study and barrier reduction:
+During the planning process and after considerable consultation across campus, ten institutional barriers that were perceived to impede our capacity to do our best research, teaching, and learning were identified. Four (_asterisks&#42;_) were selected for study and barrier reduction and those study subgroups submitted [reports](#reports):
 
 1. &#42; Design effective mechanisms to support joint appointments.
 2. &#42; Reduce team-teaching difficulties.
@@ -24,6 +24,7 @@ During the planning process and after considerable consultation across campus, t
 10. Develop a consistent philosophy of teaching load expectations across departments and divisions.
 
 Over time, additional barriers may be targeted for study and reduction.
+<a href="#reports"></>
 
 ## Reports
 
