@@ -2,9 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [1.0.2](https://github.com/ucsc/site-sap/compare/v1.0.1...v1.0.2) (2021-03-10)
+## 1.1.0 (2021-03-10)
 
-### 1.0.1 (2021-03-10)
+### Features
+
+* :sparkles: Rework site based on punch list. See commit history ([c6a1346](https://github.com/ucsc/site-sap/commit/c6a134634f87545a91f561411b834d27fb79e712))
+* :tada: New branch to work on Issue [#6](https://github.com/ucsc/site-sap/issues/6) ([e820b01](https://github.com/ucsc/site-sap/commit/e820b018682318bbe103b2568442b5fce40046e8))
 
 # Changelog
 
