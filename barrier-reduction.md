@@ -24,7 +24,7 @@ During the planning process and after considerable consultation across campus, t
 10. Develop a consistent philosophy of teaching load expectations across departments and divisions.
 
 Over time, additional barriers may be targeted for study and reduction.
-<a href="#reports"></>
+<a href="#reports"></a>
 
 ## Reports
 
