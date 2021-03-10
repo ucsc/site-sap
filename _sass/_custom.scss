@@ -49,15 +49,6 @@ h6 {
     @include relative-font-size(0.875);
 }
 
-.footnotes {
-    ol,
-    li,
-    p,
-    a {
-        @include relative-font-size(0.75);
-    }
-}
-
 .page-top #topNav {
     @include relative-font-size(0.9);
 }
@@ -140,6 +131,24 @@ h6 {
                 @include relative-font-size (2.65625);
             }
         }
+    }
+}
+
+.footnotes {
+    ol,
+    li,
+    p,
+    a {
+        @include relative-font-size(0.75);
+    }
+}
+
+.sidebar-contact {
+    h3 {
+        @include relative-font-size(1);
+    }
+    p {
+        @include relative-font-size(0.875);
     }
 }
 
