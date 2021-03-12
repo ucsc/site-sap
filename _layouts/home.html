@@ -11,7 +11,7 @@ layout: default
   {% for item in site.data.main.homegrid%}
     <li>
     <a href="{{item.url}}">
-      <figure class="home-fig">
+      <figure>
         {% asset {{item.image}} alt='{{item.alt}}' magick:resize=400 %}
 {% if item.caption %}
 <figcaption>{{item.caption}}</figcaption>
