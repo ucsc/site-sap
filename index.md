@@ -1,5 +1,5 @@
 ---
 layout: home
 menu: false
-slider: true
+slider: false
 ---
