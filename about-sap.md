@@ -8,8 +8,8 @@ hero:
   text: "Student studying"
   description: "Strategic Academic Plan"
 related:
-  image: strategic.png
-  image_alt: UCSC SAP PDF
+  image: sap-cover.jpg
+  image_alt: UCSC Strategic Academic Plan [PDF]
   link: https://drive.google.com/file/d/1lZcMhHsGLoWvOqJuFFHo6uMxpq8gG4lG/view
   caption: Read or download the Plan
   initiatives_dashboard: Please visit <a href="https://docs.google.com/spreadsheets/d/1yCOSpT1O-0BswKv1nL37P4b0uTUL473C_TjkAhcFe-c/edit?usp=sharing">the initiatives dashboard</a> to view metrics and progress.
