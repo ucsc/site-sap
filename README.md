@@ -1,13 +1,9 @@
-# UCSC Strategic Academic Plan Jekyll Site
+# [Archived] UCSC Strategic Academic Plan Jekyll Site
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4d8780d2-794e-4cdf-a9e3-2785456ecb53/deploy-status)](https://app.netlify.com/sites/ucsc-sap/deploys)
-
-Website for the UC Santa Cruz Strategic Academic Plan. Built with Jekyll, hosted on Netlify.
+**Former** website for the UC Santa Cruz Strategic Academic Plan. Built with Jekyll, hosted on Netlify.
 
 url: [https://sap.ucsc.edu](https://sap.ucsc.edu)
-
 Author: [Jason Chafin](https://github.com/Herm71)
-
 Contributor(s): [Rob Knight](https://github.com/knice)
 
 ## Local development
